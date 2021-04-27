@@ -10,6 +10,6 @@ class Player
   end
 
   def name
-    return @name
+    @name
   end
 end
